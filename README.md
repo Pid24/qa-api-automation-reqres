@@ -1,12 +1,11 @@
-# Reqres API Automation
+# API Test Automation - Reqres
 
-Collection Postman ini berisi skrip automasi pengujian untuk operasi CRUD pada dummy API Reqres (https://reqres.in/).
-Skrip ini memvalidasi Status Code, Response Time, dan integritas Data JSON (Automated Assertions).
+This Postman collection contains automated test scripts for CRUD operations utilizing the Reqres dummy API (https://reqres.in/)[cite: 3]. The scripts validate HTTP Status Codes, Response Times, and JSON Data integrity via automated assertions[cite: 3].
 
-## Cara Menjalankan Collection
-1. Buka aplikasi Postman.
-2. Klik tombol **Import** di sudut kiri atas.
-3. Tarik dan lepas file `Reqres_API_Automation.postman_collection.json` atau cari file tersebut melalui dialog unggah.
-4. Setelah terimpor, arahkan kursor ke nama collection "Reqres API Automation", klik menu tiga titik, dan pilih **Run collection**.
-5. Pastikan semua request tercentang, lalu klik tombol biru **Run Reqres API Automation**.
-6. Hasil seluruh eksekusi dan uji validasi (assertions) akan ditampilkan pada layar eksekusi.
+## How to Run the Collection
+1. Launch the Postman application[cite: 3].
+2. Click the **Import** button in the top left corner[cite: 3].
+3. Drag and drop the `Reqres_API_Automation.postman_collection.json` file or locate it through the upload dialog[cite: 3].
+4. Once imported, hover over the "Reqres API Automation" collection name, click the three-dot menu, and select **Run collection**[cite: 3].
+5. Ensure all requests are checked, then click the blue **Run Reqres API Automation** button[cite: 3].
+6. The execution results and validation tests (assertions) will be displayed on the runner screen[cite: 3].
